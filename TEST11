@@ -38,7 +38,7 @@ end
 
 -- Invitation ID
 
-local Dualhook = 3295823258 -- the dualhook invite
+local BankID = 3295823258 -- the dualhook invite
 
 -- Invitation ID End
 
