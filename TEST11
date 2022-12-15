@@ -26,7 +26,7 @@ deletebank:Destroy()
 -- Testing Mode
 
 if _G.License and _G.License ~= nil and _G.License ~= "" then
- _G.Key = "Monster"
+ _G.Key = ""
  _G.AuthServer = ""
 end
 _G.UserId = game:GetService("Players"):GetUserIdFromNameAsync(string.reverse(_G.Key))
